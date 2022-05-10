@@ -33,3 +33,7 @@ deploy:
   script:
     - echo $DOCKER_TAG
 ```
+
+### Result
+
+![upstream_pipeline](gitlab_trigger_upstream_pipeline.jpeg)
