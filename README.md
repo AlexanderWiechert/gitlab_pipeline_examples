@@ -34,7 +34,7 @@ deploy:
 
 ### Result
 
-![upstream_pipeline](gitlab_trigger_upstream_pipeline.jpeg)
+![upstream_pipeline](gitlab_trigger_downstream_pipeline.jpeg)
 
 
 ## trigger with manual click
@@ -62,3 +62,4 @@ deploy:
 ```
 
 ![gitlab_manual1](gitlab_manual1.jpeg)
+![gitlab_downstream_pipeline2](gitlab_downstream_pipeline2.jpeg)
